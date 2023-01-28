@@ -1,0 +1,8 @@
+In this study, we used deep learning techniques to generate models for 
+Real and Fake face detection.
+
+The goal is determining a suitable way to detect real and fake faces. The model was designed 
+and implemented, including both Dataset of images: Real and Fake faces detection using Dee
+p learning algorithms based on neural networks. We have trained dataset which consists of 
+140000 images for total in 20 epochs, with 89.87 % training accuracy, testing accuracy 
+89.87 %, training loss 0.0233 %, validation loss 0.0233 %.
