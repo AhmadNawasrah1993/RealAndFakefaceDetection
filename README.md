@@ -1,5 +1,6 @@
 Real and Fake Faces Detection Using Deep Learning CNN
 
+<img src='SampleTesting.PNG'>
 Abstract: 
 Artificial intelligence (AI), deep learning, machine learning and neural networks represent extremely exciting and
 powerful machine learning-based techniques used to solve many real-world problems.
